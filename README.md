@@ -17,21 +17,21 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```javascript
-const developer = {
-  name:       "Al-Amin-Hossain",
-  title:      "MERN Stack Developer",
-  location:   "Bangladesh 🇧🇩",
-  stack:      ["MongoDB", "Express.js", "React", "Node.js"],
-  languages:  ["C/C++", "Java", "JavaScript", "Python"],
-  frontend:   ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
-  backend:    ["Express.js", "Node.js", "REST APIs"],
-  databases:  ["MongoDB", "MySQL", "Prisma ORM"],
-  currentlyLearning: "System Design & Cloud Architecture ☁️",
-  funFact:    "I debug in production and call it 'live testing' 😅",
-};
-```
+ 
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+👋 &nbsp;Hey! I'm a **MERN Stack Developer** from **Bangladesh 🇧🇩**, passionate about turning ideas into fast, beautiful, and functional web experiences.
+ 
+🚀 &nbsp;I live on the **full stack** — crafting pixel-perfect UIs with **React & Next.js** on the frontend, and building robust **REST APIs** with **Node.js & Express** on the backend.
+ 
+🗄️ &nbsp;When it comes to data, I'm comfortable with both **MongoDB** and **MySQL**, and I love the elegance of **Prisma ORM** for clean database workflows.
+ 
+🧠 &nbsp;Beyond the web, I have a strong foundation in **C/C++**, **Java**, and **Python** — which keeps my problem-solving sharp and my thinking structured.
+ 
+📚 &nbsp;Currently leveling up in **System Design & Cloud Architecture** — because great software isn't just about writing code, it's about writing the *right* code.
+ 
+⚡ &nbsp;Fun fact: I've named my favorite bug "Feature" and shipped it twice.
+ 
+<br/>
 
 ---
 
